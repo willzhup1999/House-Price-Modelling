@@ -1,0 +1,2 @@
+# House-Price-Modelling
+This dataset is from a Kaggle competition that was presented to me through my Stats 101A Modelling and Regression course at UCLA. The original scope of the project was to try and fit a linear regression model on the data but I wanted expand on this to try some machine learning techniques I had learned through doing research with the psychology department. In this project I first performed some EDA and moved onto data cleaning and preparing the 79 vairables before using the XGBoost model and the LASSO regression model to predict house prices. 
